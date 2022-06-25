@@ -54,7 +54,7 @@ Note : there are hidden features, check at the source code of the bot to find th
 
 𝙈𝙚𝙩𝙝𝙤𝙙 - 2 : ᴠɪᴀ ᴇᴅɪᴛɪɴɢ ʀᴇᴘᴏ ɴᴀᴍᴇ ᴀɴᴅ ʟɪɴᴋ
 
-[![Deploy](https://dashboard.heroku.com/new?template=https://github.com/SM-Ali/smgsdclonebot01-op/ree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/SM-Ali/smgsdclonebot01-op/ree/master)
 
 
 
